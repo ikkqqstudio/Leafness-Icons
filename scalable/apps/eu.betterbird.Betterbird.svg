@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="bettterbird.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.90625"
+     inkscape:cx="32"
+     inkscape:cy="22.702179"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <defs
+     id="defs6">
+    <linearGradient
+       id="g1"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#ffffff"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#dcdcdc"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="g2"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#b0c9ef"
+         id="stop3"
+         style="stop-color:#efcab0;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#3a7ad8"
+         id="stop4"
+         style="stop-color:#d87c3a;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="g3"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#ffffff"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-color="#d6d6d6"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <ellipse
+     cx="41"
+     cy="38"
+     rx="17"
+     ry="3"
+     fill="#000"
+     opacity="0.18"
+     id="ellipse6" />
+  <path
+     d="M22 8 L56 4 L58 34 L24 37 Z"
+     fill="url(#g1)"
+     stroke="#4a4a4a"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path6" />
+  <path
+     d="M22 8 L56 4 L56.6 16 L22.6 20 Z"
+     fill="url(#g2)"
+     stroke="#1a3661"
+     stroke-width="1.6"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path7"
+     style="stroke:#61381a;stroke-opacity:1" />
+  <path
+     d="M30 10 l0 -6"
+     fill="none"
+     stroke="#555"
+     stroke-width="2.2"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path8" />
+  <path
+     d="M40 9.1 l0 -6"
+     fill="none"
+     stroke="#555"
+     stroke-width="2.2"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path9" />
+  <path
+     d="M50 8.2 l0 -6"
+     fill="none"
+     stroke="#555"
+     stroke-width="2.2"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path10" />
+  <path
+     d="M60 7.3 l0 -6"
+     fill="none"
+     stroke="#555"
+     stroke-width="2.2"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path11" />
+  <text
+     x="40"
+     y="30"
+     font-family="sans-serif"
+     font-weight="bold"
+     font-size="22"
+     fill="#333"
+     text-anchor="middle"
+     id="text11" />
+  <path
+     d="M4 30 L48 26 L51 54 L7 58 Z"
+     fill="url(#g3)"
+     stroke="#4a4a4a"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path12" />
+  <path
+     d="M4 30 L28 42.8 L48 26"
+     fill="none"
+     stroke="#4a4a4a"
+     stroke-width="1.8"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path13" />
+  <text
+     x="39"
+     y="28"
+     font-family="sans-serif"
+     font-weight="bold"
+     font-size="11"
+     fill="#3a7ad8"
+     text-anchor="middle"
+     id="text13"
+     style="fill:#d87d3a;fill-opacity:1">@</text>
+</svg>

@@ -1,0 +1,13 @@
+Based On:
+geraldgreiling (haiku-plasma-theme), MIT, https://github.com/geraldgreiling/haiku-plasma-theme
+
+That One Workouts.svg Inspiration:
+https://sv.wikipedia.org/wiki/Anv%C3%A4ndare:Chrizz (File:Rectus abdominis.png) CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=238610
+
+SE98 README:
+Nestoris (Win98SE), GPLv2, https://github.com/nestoris/Win98SE
+
+Lagrange Icon:
+Skyjake (Lagrange), BSD-2-Clause, https://github.com/skyjake/lagrange
+
+If I Forgot The Attribution, Contact Me
